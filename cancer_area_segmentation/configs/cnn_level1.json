@@ -1,0 +1,14 @@
+{
+  "model": "resnet18",
+  "batch_size": 128,
+  "image_size": 256,
+  "crop_size": 256,
+  "normalize": "True",
+  "lr": 0.01,
+  "momentum": 0.9,
+  "data_path_train": "/home/sdd/zhangxueyuan/TCGA_data/train_valid_256_level1_linchuang/train",
+  "data_path_valid": "/home/sdd/zhangxueyuan/TCGA_data/train_valid_256_level1_linchuang/valid",
+  "epoch": 200,
+  "log_every": 5
+}
+
