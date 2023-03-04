@@ -35,7 +35,7 @@
 
 * `getPatchbyCoordsMIL.py`：Generate training dataset for HDMIL-Patch.
 
-* `make_data_list_mil.py`：Make and split training set, verification set and test set for HDMIL model.
+* `make_data_list_mil.py`：Make and split training set, validation set and test set for HDMIL model.
 
 * `mil1_train.py`：Training the HDMIL-Patch model.
 
