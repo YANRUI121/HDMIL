@@ -74,5 +74,6 @@
 If you have any questions, please contact Rui Yan at yanrui666666@gmail.com.
 
 If you find our work useful in your research, please consider citing our paper at:
-'Yan R, Shen Y, Zhang X, et al. Histopathological bladder cancer gene mutation prediction with hierarchical deep multiple-instance learning[J]. Medical Image Analysis, 2023, 87: 102824.'
+
+Yan R, Shen Y, Zhang X, et al. Histopathological bladder cancer gene mutation prediction with hierarchical deep multiple-instance learning[J]. Medical Image Analysis, 2023, 87: 102824.
 
